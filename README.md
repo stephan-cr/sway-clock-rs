@@ -28,7 +28,7 @@ RUSTFLAGS="-C target-feature=+crt-static" cargo build --release
 ```
 
 ```shell
-docker build --tag scratch-test .
+docker build --tag <image-name> .
 ```
 
 ```shell
