@@ -12,3 +12,4 @@ lto = true
 opt-level = 's'
 panic = 'abort'
 # strip = "symbols" <- only in nightly
+strip = true
