@@ -2,7 +2,7 @@
 name = "sway-clock"
 version = "0.1.0"
 authors = ["stephan"]
-edition = "2018"
+edition = "2021"
 
 [dependencies]
 chrono = "0.4"
