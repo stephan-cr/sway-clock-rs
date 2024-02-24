@@ -1,4 +1,5 @@
 #![warn(rust_2018_idioms)]
+#![warn(clippy::pedantic)]
 
 use std::env;
 use std::process::exit;
